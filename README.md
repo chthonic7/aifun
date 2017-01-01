@@ -1,0 +1,2 @@
+# aifun
+OpenAI Gym stuff
